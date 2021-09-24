@@ -45,6 +45,12 @@
       "plugin": "upload",
       "required": true,
       "pluginOptions": {}
+    },
+    "categoria": {
+      "model": "categorias"
+    },
+    "agentes": {
+      "model": "agentes"
     }
   }
 }
